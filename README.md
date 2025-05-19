@@ -14,7 +14,7 @@ The survey delineates the evolving role of LLMs in science through a three-level
 
 Below is a visual representation of this taxonomy:
 
-![Taxonomy of LLM in Scientific Discovery](main.png)
+![Taxonomy of LLM in Scientific Discovery](taxonomy.png)
 
 We aim to provide a comprehensive overview for researchers, developers, and enthusiasts interested in this rapidly advancing field.
 

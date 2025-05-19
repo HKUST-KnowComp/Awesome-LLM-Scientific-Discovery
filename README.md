@@ -1,0 +1,1 @@
+# Awesome-LLM-Scientific-Discovery

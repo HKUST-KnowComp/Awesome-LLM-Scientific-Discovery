@@ -181,6 +181,9 @@ Benchmarks and frameworks evaluating diverse tasks from different stages of scie
 *   **CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2503.13517-B31B1B.svg)](https://arxiv.org/pdf/2503.13517) - *Cui et al. (2025.03)*
 *   **EAIRA: Establishing a Methodology for Evaluating AI Models as Scientific Research Assistants** [![arXiv](https://img.shields.io/badge/arXiv-2502.20309-B31B1B.svg)](https://arxiv.org/pdf/2502.20309) - *Cappello et al. (2025.02)*
 
+### Survey Generation
+
+*   **AutoSurvey: Large Language Models Can Automatically Write Surveys** [![arXiv](https://img.shields.io/badge/arXiv-2406.10252-B31B1B.svg)](https://arxiv.org/pdf/2406.10252) - *Wang et al. (2024.06)*
 ---
 
 ## Level 3: LLM as Scientist

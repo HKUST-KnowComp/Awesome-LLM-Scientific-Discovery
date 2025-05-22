@@ -150,6 +150,7 @@ Automated data-driven analysis, statistical data modeling, and hypothesis valida
 *   **DAgent: A Relational Database-Driven Data Analysis Report Generation Agent** [![arXiv](https://img.shields.io/badge/arXiv-2503.13269-B31B1B.svg)](https://arxiv.org/pdf/2503.13269) - *Xu et al. (2025.03)*
 *   **DiscoveryBench: Towards Data-Driven Discovery with Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2407.01725-B31B1B.svg)](https://arxiv.org/pdf/2407.01725) - *Majumder et al. (2024.07)*
 *   **Large Language Models for Scientific Synthesis, Inference and Explanation**  [![arXiv](https://img.shields.io/badge/arXiv-2310.07984-B31B1B.svg)](https://arxiv.org/pdf/2310.07984) - *Zheng et al. (2023.10)*
+*   **MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem**  [![arXiv](https://img.shields.io/badge/arXiv-2505.14148-B31B1B.svg)](https://arxiv.org/pdf/2505.14148) - *Liu et al. (2025.05)*
 
 ### Function Discovery
 

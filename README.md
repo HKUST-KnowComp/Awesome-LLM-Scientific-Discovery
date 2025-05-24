@@ -66,6 +66,7 @@ Automated generation of novel research ideas, conceptual insights, and testable 
 *   **AI Idea Bench 2025: AI Research Idea Generation Benchmark** [![arXiv](https://img.shields.io/badge/arXiv-2504.14191-B31B1B.svg)](https://arxiv.org/pdf/2504.14191) - *Qiu et al. (2025.04)*
 *   **IdeaBench: Benchmarking Large Language Models for Research Idea Generation** [![arXiv](https://img.shields.io/badge/arXiv-2411.02429-B31B1B.svg)](https://arxiv.org/pdf/2411.02429) - *Guo et al. (2024.11)*
 *   **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers** [![arXiv](https://img.shields.io/badge/arXiv-2409.04109-B31B1B.svg)](https://arxiv.org/pdf/2409.04109) - *Si et al. (2024.09)*
+*   **Learning to Generate Research Idea with Dynamic Control** [![arXiv](https://img.shields.io/badge/arXiv-2412.14626-B31B1B.svg)](https://arxiv.org/pdf/2412.14626) - *Li et al. (2024.12)*
 *   **LiveIdeaBench: Evaluating LLMs' Divergent Thinking for Scientific Idea Generation with Minimal Context** [![arXiv](https://img.shields.io/badge/arXiv-2412.17596-B31B1B.svg)](https://arxiv.org/pdf/2412.17596) - *Ruan et al. (2024.12)*
 *   **Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas** [![arXiv](https://img.shields.io/badge/arXiv-2410.14255-B31B1B.svg)](https://arxiv.org/pdf/2410.14255) - *Hu et al. (2024.10)*
 *   **GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation** [![arXiv](https://img.shields.io/badge/arXiv-2503.12600-B31B1B.svg)](https://arxiv.org/pdf/2503.12600) - *Feng et al. (2025.03)*
@@ -114,6 +115,7 @@ LLMs providing feedback, verifying claims, replicating results, and generating r
 *   **ReviewerGPT? An Exploratory Study on Using Large Language Models for Paper Reviewing** [![arXiv](https://img.shields.io/badge/arXiv-2306.00622-B31B1B.svg)](https://arxiv.org/pdf/2306.00622) - *Liu and Shah (2023.06)*
 *   **Towards Autonomous Hypothesis Verification via Language Models with Minimal Guidance** [![arXiv](https://img.shields.io/badge/arXiv-2311.09706-B31B1B.svg)](https://arxiv.org/pdf/2311.09706) - *Takagi et al. (2023.11)*
 *   **CycleResearcher: Improving Automated Research via Automated Review** [![arXiv](https://img.shields.io/badge/arXiv-2411.00816-B31B1B.svg)](https://arxiv.org/pdf/2411.00816) - *Weng et al. (2024.11)*
+*   **PaperBench: Evaluating AI’s Ability to Replicate AI Research** [![arXiv](https://img.shields.io/badge/arXiv-2504.01848-B31B1B.svg)](https://arxiv.org/pdf/2504.01848) - *Starace et al. (2025.04)*
 *   **SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers** [![arXiv](https://img.shields.io/badge/arXiv-2504.00255-B31B1B.svg)](https://arxiv.org/pdf/2504.00255) - *Xiang et al. (2025.04)*
 *   **Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning** (Xu et al. in survey) [![arXiv](https://img.shields.io/badge/arXiv-2504.01911-B31B1B.svg)](https://arxiv.org/pdf/2504.01911) - *Xu et al. (2025.04)*
 
@@ -136,6 +138,8 @@ LLMs exhibiting a greater degree of autonomy, functioning as passive agents capa
 Automated modeling of machine learning tasks, experiment design, and execution.
 
 *   **MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation** [![arXiv](https://img.shields.io/badge/arXiv-2310.03302-B31B1B.svg)](https://arxiv.org/pdf/2310.03302) - *Huang et al. (2023.10)*
+*   **MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents** [![arXiv](https://img.shields.io/badge/arXiv-2408.14033-B31B1B.svg)](https://arxiv.org/pdf/2408.14033) - *Li et al. (2024.08)*
+*   **MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering** [![arXiv](https://img.shields.io/badge/arXiv-2410.07095-B31B1B.svg)](https://arxiv.org/pdf/2410.07095) - *Chan et al. (2024.10)*
 *   **IMPROVE: Iterative Model Pipeline Refinement and Optimization Leveraging LLM Agents** [![arXiv](https://img.shields.io/badge/arXiv-2502.18530v1-B31B1B.svg)](https://arxiv.org/pdf/2502.18530v1) - *Xue et al. (2025.02)*
 *   **CodeScientist: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation** [![arXiv](https://img.shields.io/badge/arXiv-2503.22708-B31B1B.svg)](https://arxiv.org/pdf/2503.22708) - *Jansen et al. (2025.03)*
 

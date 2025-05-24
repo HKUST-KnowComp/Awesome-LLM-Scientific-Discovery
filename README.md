@@ -207,7 +207,7 @@ LLM-based systems operating as active agents capable of orchestrating and naviga
 
 ## Contributing
 
-Contributions are welcome! If you have a paper, tool, or resource that fits into this taxonomy, please open an issue or submit a pull request.
+Contributions are welcome! If you have a paper, tool, or resource that fits into this taxonomy, please submit a **pull request**.
 
 ---
 

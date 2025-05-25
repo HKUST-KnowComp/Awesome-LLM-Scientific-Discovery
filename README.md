@@ -111,13 +111,13 @@ LLMs providing feedback, verifying claims, replicating results, and generating r
 *   **CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?** [![arXiv](https://img.shields.io/badge/arXiv-2503.21717-B31B1B.svg)](https://arxiv.org/pdf/2503.21717) - *Ou et al. (2025.03)*
 *   **LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing**  [![arXiv](https://img.shields.io/badge/arXiv-2406.16253-B31B1B.svg)](https://arxiv.org/pdf/2406.16253) - *Du et al. (2024.06)*
 *   **AI-Driven Review Systems: Evaluating LLMs in Scalable and Bias-Aware Academic Reviews**  [![arXiv](https://img.shields.io/badge/arXiv-2408.10365-B31B1B.svg)](https://arxiv.org/pdf/2408.10365) - *Tyser et al. (2024.08)*
-*   **Is LLM a Reliable Reviewer? A Comprehensive Evaluation of LLM on Automatic Paper Reviewing Tasks** (RR-MCQ / Zhou et al. in survey) [![Link](https://img.shields.io/badge/Link-LREC--COLING_2024-blue.svg)](https://aclanthology.org/2024.lrec-main.816.pdf) - *Zhou et al. (2024.05)*
+*   **Is LLM a Reliable Reviewer? A Comprehensive Evaluation of LLM on Automatic Paper Reviewing Tasks**  [![Link](https://img.shields.io/badge/Link-LREC--COLING_2024-blue.svg)](https://aclanthology.org/2024.lrec-main.816.pdf) - *Zhou et al. (2024.05)*
 *   **ReviewerGPT? An Exploratory Study on Using Large Language Models for Paper Reviewing** [![arXiv](https://img.shields.io/badge/arXiv-2306.00622-B31B1B.svg)](https://arxiv.org/pdf/2306.00622) - *Liu and Shah (2023.06)*
 *   **Towards Autonomous Hypothesis Verification via Language Models with Minimal Guidance** [![arXiv](https://img.shields.io/badge/arXiv-2311.09706-B31B1B.svg)](https://arxiv.org/pdf/2311.09706) - *Takagi et al. (2023.11)*
 *   **CycleResearcher: Improving Automated Research via Automated Review** [![arXiv](https://img.shields.io/badge/arXiv-2411.00816-B31B1B.svg)](https://arxiv.org/pdf/2411.00816) - *Weng et al. (2024.11)*
 *   **PaperBench: Evaluating AI’s Ability to Replicate AI Research** [![arXiv](https://img.shields.io/badge/arXiv-2504.01848-B31B1B.svg)](https://arxiv.org/pdf/2504.01848) - *Starace et al. (2025.04)*
 *   **SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers** [![arXiv](https://img.shields.io/badge/arXiv-2504.00255-B31B1B.svg)](https://arxiv.org/pdf/2504.00255) - *Xiang et al. (2025.04)*
-*   **Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning** (Xu et al. in survey) [![arXiv](https://img.shields.io/badge/arXiv-2504.01911-B31B1B.svg)](https://arxiv.org/pdf/2504.01911) - *Xu et al. (2025.04)*
+*   **Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2504.01911-B31B1B.svg)](https://arxiv.org/pdf/2504.01911) - *Xu et al. (2025.04)*
 
 ### Iteration and Refinement
 
@@ -143,6 +143,7 @@ Automated modeling of machine learning tasks, experiment design, and execution.
 *   **MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering** [![arXiv](https://img.shields.io/badge/arXiv-2410.07095-B31B1B.svg)](https://arxiv.org/pdf/2410.07095) - *Chan et al. (2024.10)*
 *   **IMPROVE: Iterative Model Pipeline Refinement and Optimization Leveraging LLM Agents** [![arXiv](https://img.shields.io/badge/arXiv-2502.18530v1-B31B1B.svg)](https://arxiv.org/pdf/2502.18530v1) - *Xue et al. (2025.02)*
 *   **CodeScientist: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation** [![arXiv](https://img.shields.io/badge/arXiv-2503.22708-B31B1B.svg)](https://arxiv.org/pdf/2503.22708) - *Jansen et al. (2025.03)*
+*   **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?** [![arXiv](https://img.shields.io/badge/arXiv-2504.09702-B31B1B.svg)](https://arxiv.org/pdf/2504.09702) - *Zhang et al. (2025.04)*
 
 ### Data Modeling and Analysis
 

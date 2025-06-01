@@ -90,6 +90,7 @@ LLMs assisting in experimental protocol planning, workflow design, and scientifi
 *   **DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation** [![arXiv](https://img.shields.io/badge/arXiv-2211.11501-B31B1B.svg)](https://arxiv.org/pdf/2211.11501) - *Lai et al. (2022.11)*
 *   **MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering** [![arXiv](https://img.shields.io/badge/arXiv-2410.07095-B31B1B.svg)](https://arxiv.org/pdf/2410.07095) - *Chan et al. (2024.10)*
 *   **AIDE: AI-Driven Exploration in the Space of Code** [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-B31B1B.svg)](https://arxiv.org/pdf/2502.13138) - *Jiang et al. (2025.02)*
+*   **Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**, [![arXiv](https://img.shields.io/badge/arXiv-2502.16069-B31B1B.svg)](https://arxiv.org/pdf/2502.16069) - *Kon et al. (2025.02)*
 
 ### Data Analysis and Organization
 

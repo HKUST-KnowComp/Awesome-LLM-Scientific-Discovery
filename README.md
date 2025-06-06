@@ -119,6 +119,7 @@ LLMs providing feedback, verifying claims, replicating results, and generating r
 *   **PaperBench: Evaluating AI’s Ability to Replicate AI Research** [![arXiv](https://img.shields.io/badge/arXiv-2504.01848-B31B1B.svg)](https://arxiv.org/pdf/2504.01848) - *Starace et al. (2025.04)*
 *   **SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers** [![arXiv](https://img.shields.io/badge/arXiv-2504.00255-B31B1B.svg)](https://arxiv.org/pdf/2504.00255) - *Xiang et al. (2025.04)*
 *   **Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2504.01911-B31B1B.svg)](https://arxiv.org/pdf/2504.01911) - *Xu et al. (2025.04)*
+*   **Generative Adversarial Reviews: When LLMs Become the Critic** [![arXiv](https://img.shields.io/badge/arXiv-2412.10415-B31B1B.svg)](https://arxiv.org/pdf/2412.10415) - *Bougie & Watanabe (2024.12)*
 
 ### Iteration and Refinement
 

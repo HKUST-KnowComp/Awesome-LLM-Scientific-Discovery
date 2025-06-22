@@ -77,6 +77,7 @@ Automated generation of novel research ideas, conceptual insights, and testable 
 *   **Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation** [![arXiv](https://img.shields.io/badge/arXiv-2407.08940-B31B1B.svg)](https://arxiv.org/pdf/2407.08940) - *Qi et al. (2024.07)*
 *   **LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs -- Evaluation through Synthetic Data Generation** [![arXiv](https://img.shields.io/badge/arXiv-2410.15828-B31B1B.svg)](https://arxiv.org/pdf/2410.15828) - *Afonja et al. (2024.10)*
 *   **Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination** [![arXiv](https://img.shields.io/badge/arXiv-2409.14634-B31B1B.svg)](https://arxiv.org/pdf/2409.14634) - *Radensky et al. (2024.09)*
+*   **HypER: Literature-grounded Hypothesis Generation and Distillation with Provenance** [![arXiv](https://img.shields.io/badge/arXiv-2506.12937-B31B1B.svg)](https://arxiv.org/pdf/2506.12937) - *Vasu et al. (2025.06)*
 
 ### Experiment Planning and Execution
 

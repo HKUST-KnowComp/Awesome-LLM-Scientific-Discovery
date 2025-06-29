@@ -147,6 +147,8 @@ Automated modeling of machine learning tasks, experiment design, and execution.
 *   **IMPROVE: Iterative Model Pipeline Refinement and Optimization Leveraging LLM Agents** [![arXiv](https://img.shields.io/badge/arXiv-2502.18530v1-B31B1B.svg)](https://arxiv.org/pdf/2502.18530v1) - *Xue et al. (2025.02)*
 *   **CodeScientist: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation** [![arXiv](https://img.shields.io/badge/arXiv-2503.22708-B31B1B.svg)](https://arxiv.org/pdf/2503.22708) - *Jansen et al. (2025.03)*
 *   **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?** [![arXiv](https://img.shields.io/badge/arXiv-2504.09702-B31B1B.svg)](https://arxiv.org/pdf/2504.09702) - *Zhang et al. (2025.04)*
+*   **RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts** [![arXiv](https://img.shields.io/badge/arXiv-2411.15114-B31B1B.svg)](https://arxiv.org/pdf/2411.15114) - *Wijk et al. (2024.11)*
+*   **MLZero: A Multi-Agent System for End-to-end Machine Learning Automation** [![arXiv](https://img.shields.io/badge/arXiv-2505.13941-B31B1B.svg)](https://arxiv.org/pdf/2505.13941) - *Fang et al. (2025.05)*
 
 ### Data Modeling and Analysis
 
@@ -160,6 +162,8 @@ Automated data-driven analysis, statistical data modeling, and hypothesis valida
 *   **DiscoveryBench: Towards Data-Driven Discovery with Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2407.01725-B31B1B.svg)](https://arxiv.org/pdf/2407.01725) - *Majumder et al. (2024.07)*
 *   **Large Language Models for Scientific Synthesis, Inference and Explanation**  [![arXiv](https://img.shields.io/badge/arXiv-2310.07984-B31B1B.svg)](https://arxiv.org/pdf/2310.07984) - *Zheng et al. (2023.10)*
 *   **MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem**  [![arXiv](https://img.shields.io/badge/arXiv-2505.14148-B31B1B.svg)](https://arxiv.org/pdf/2505.14148) - *Liu et al. (2025.05)*
+*   **DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?**  [![arXiv](https://img.shields.io/badge/arXiv-2409.07703-B31B1B.svg)](https://arxiv.org/pdf/2409.07703) - *Jing et al. (2024.09)*
+
 
 ### Function Discovery
 

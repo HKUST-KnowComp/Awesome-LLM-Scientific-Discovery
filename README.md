@@ -89,8 +89,6 @@ LLMs assisting in experimental protocol planning, workflow design, and scientifi
 *   **SciCode: A Research Coding Benchmark Curated by Scientists** [![arXiv](https://img.shields.io/badge/arXiv-2407.13168-B31B1B.svg)](https://arxiv.org/pdf/2407.13168) - *Tian et al. (2024.07)*
 *   **Natural Language to Code Generation in Interactive Data Science Notebooks** [![arXiv](https://img.shields.io/badge/arXiv-2212.09248-B31B1B.svg)](https://arxiv.org/pdf/2212.09248) - *Yin et al. (2022.12)*
 *   **DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation** [![arXiv](https://img.shields.io/badge/arXiv-2211.11501-B31B1B.svg)](https://arxiv.org/pdf/2211.11501) - *Lai et al. (2022.11)*
-*   **MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering** [![arXiv](https://img.shields.io/badge/arXiv-2410.07095-B31B1B.svg)](https://arxiv.org/pdf/2410.07095) - *Chan et al. (2024.10)*
-*   **AIDE: AI-Driven Exploration in the Space of Code** [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-B31B1B.svg)](https://arxiv.org/pdf/2502.13138) - *Jiang et al. (2025.02)*
 *   **Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**, [![arXiv](https://img.shields.io/badge/arXiv-2502.16069-B31B1B.svg)](https://arxiv.org/pdf/2502.16069) - *Kon et al. (2025.02)*
 
 ### Data Analysis and Organization
@@ -149,6 +147,7 @@ Automated modeling of machine learning tasks, experiment design, and execution.
 *   **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?** [![arXiv](https://img.shields.io/badge/arXiv-2504.09702-B31B1B.svg)](https://arxiv.org/pdf/2504.09702) - *Zhang et al. (2025.04)*
 *   **RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts** [![arXiv](https://img.shields.io/badge/arXiv-2411.15114-B31B1B.svg)](https://arxiv.org/pdf/2411.15114) - *Wijk et al. (2024.11)*
 *   **MLZero: A Multi-Agent System for End-to-end Machine Learning Automation** [![arXiv](https://img.shields.io/badge/arXiv-2505.13941-B31B1B.svg)](https://arxiv.org/pdf/2505.13941) - *Fang et al. (2025.05)*
+*   **AIDE: AI-Driven Exploration in the Space of Code** [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-B31B1B.svg)](https://arxiv.org/pdf/2502.13138) - *Jiang et al. (2025.02)*
 
 ### Data Modeling and Analysis
 

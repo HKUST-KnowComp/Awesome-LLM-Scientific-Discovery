@@ -119,6 +119,9 @@ LLMs providing feedback, verifying claims, replicating results, and generating r
 *   **SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers** [![arXiv](https://img.shields.io/badge/arXiv-2504.00255-B31B1B.svg)](https://arxiv.org/pdf/2504.00255) - *Xiang et al. (2025.04)*
 *   **Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2504.01911-B31B1B.svg)](https://arxiv.org/pdf/2504.01911) - *Xu et al. (2025.04)*
 *   **Generative Adversarial Reviews: When LLMs Become the Critic** [![arXiv](https://img.shields.io/badge/arXiv-2412.10415-B31B1B.svg)](https://arxiv.org/pdf/2412.10415) - *Bougie & Watanabe (2024.12)*
+*   **Predicting Empirical AI Research Outcomes with Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2506.00794-B31B1B.svg)](https://arxiv.org/pdf/2506.00794) - *Wen et al. (2025.06)*
+
+
 
 ### Iteration and Refinement
 
@@ -148,6 +151,7 @@ Automated modeling of machine learning tasks, experiment design, and execution.
 *   **RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts** [![arXiv](https://img.shields.io/badge/arXiv-2411.15114-B31B1B.svg)](https://arxiv.org/pdf/2411.15114) - *Wijk et al. (2024.11)*
 *   **MLZero: A Multi-Agent System for End-to-end Machine Learning Automation** [![arXiv](https://img.shields.io/badge/arXiv-2505.13941-B31B1B.svg)](https://arxiv.org/pdf/2505.13941) - *Fang et al. (2025.05)*
 *   **AIDE: AI-Driven Exploration in the Space of Code** [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-B31B1B.svg)](https://arxiv.org/pdf/2502.13138) - *Jiang et al. (2025.02)*
+*   **Language Modeling by Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2506.20249-B31B1B.svg)](https://arxiv.org/pdf/2506.20249) - *Cheng et al. (2025.06)*
 
 ### Data Modeling and Analysis
 

@@ -78,6 +78,7 @@ Automated generation of novel research ideas, conceptual insights, and testable 
 *   **LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs -- Evaluation through Synthetic Data Generation** [![arXiv](https://img.shields.io/badge/arXiv-2410.15828-B31B1B.svg)](https://arxiv.org/pdf/2410.15828) - *Afonja et al. (2024.10)*
 *   **Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination** [![arXiv](https://img.shields.io/badge/arXiv-2409.14634-B31B1B.svg)](https://arxiv.org/pdf/2409.14634) - *Radensky et al. (2024.09)*
 *   **HypER: Literature-grounded Hypothesis Generation and Distillation with Provenance** [![arXiv](https://img.shields.io/badge/arXiv-2506.12937-B31B1B.svg)](https://arxiv.org/pdf/2506.12937) - *Vasu et al. (2025.06)*
+*   **Sparks of Science: Hypothesis Generation Using Structured Paper Data** [![arXiv](https://img.shields.io/badge/arXiv-2504.12976-B31B1B.svg)](https://arxiv.org/pdf/2504.12976) - *O'Neill et al. (2025.04)*
 
 ### Experiment Planning and Execution
 
@@ -152,6 +153,7 @@ Automated modeling of machine learning tasks, experiment design, and execution.
 *   **MLZero: A Multi-Agent System for End-to-end Machine Learning Automation** [![arXiv](https://img.shields.io/badge/arXiv-2505.13941-B31B1B.svg)](https://arxiv.org/pdf/2505.13941) - *Fang et al. (2025.05)*
 *   **AIDE: AI-Driven Exploration in the Space of Code** [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-B31B1B.svg)](https://arxiv.org/pdf/2502.13138) - *Jiang et al. (2025.02)*
 *   **Language Modeling by Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2506.20249-B31B1B.svg)](https://arxiv.org/pdf/2506.20249) - *Cheng et al. (2025.06)*
+*   **MLGym: A New Framework and Benchmark for Advancing AI Research Agents** [![arXiv](https://img.shields.io/badge/arXiv-2502.14499-B31B1B.svg)](https://arxiv.org/pdf/2502.14499) - *Nathani et al. (2025.02)*
 
 ### Data Modeling and Analysis
 

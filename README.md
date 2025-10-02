@@ -177,6 +177,9 @@ Identifying underlying equations from observational data (AI-driven symbolic reg
 *   **LLM-SR: Scientific Equation Discovery via Programming with Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2404.18400-B31B1B.svg)](https://arxiv.org/pdf/2404.18400) - *Shojaee et al. (2024.04)*
 *   **LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2504.10415-B31B1B.svg)](https://arxiv.org/pdf/2504.10415) - *Shojaee et al. (2025.04)*
 *   **Gravity-Bench-v1: A Benchmark on Gravitational Physics Discovery for Agents** [![arXiv](https://img.shields.io/badge/arXiv-2501.18411-B31B1B.svg)](https://arxiv.org/pdf/2501.18411) - *Koblischke et al. (2025.01)*
+*   **EvoSLD: Automated neural scaling law discovery with large language models** [![arXiv]](https://arxiv.org/abs/2507.21184) - *Lin et al. (2025.07)*
+*   **DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience** [![arXiv]](https://arxiv.org/abs/2506.04282) - *Wang et al. (2025.06)*
+
 
 ### Natural Science Research
 
@@ -197,7 +200,7 @@ Benchmarks and frameworks evaluating diverse tasks from different stages of scie
 
 *   **DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents** [![arXiv](https://img.shields.io/badge/arXiv-2406.06769-B31B1B.svg)](https://arxiv.org/pdf/2406.06769) - *Jansen et al. (2024.06)*
 *   **A Vision for Auto Research with LLM Agents** [![arXiv](https://img.shields.io/badge/arXiv-2504.18765-B31B1B.svg)](https://arxiv.org/pdf/2504.18765) - *Liu et al. (2025.04)*
-*   **CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2503.13517-B31B1B.svg)](https://arxiv.org/pdf/2503.13517) - *Cui et al. (2025.03)*
+*   **Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents** [![arXiv](https://img.shields.io/badge/arXiv-2502.16069-B31B1B.svg)](https://arxiv.org/abs/2502.16069) - *Kon et al. (2025.02)*
 *   **EAIRA: Establishing a Methodology for Evaluating AI Models as Scientific Research Assistants** [![arXiv](https://img.shields.io/badge/arXiv-2502.20309-B31B1B.svg)](https://arxiv.org/pdf/2502.20309) - *Cappello et al. (2025.02)*
 
 ### Survey Generation
@@ -215,6 +218,7 @@ LLM-based systems operating as active agents capable of orchestrating and naviga
 *   **AI-Researcher: Fully-Automated Scientific Discovery with LLM Agents** [![GitHub](https://img.shields.io/badge/GitHub-HKUDS/AI--Researcher-blue.svg)](https://github.com/HKUDS/AI-Researcher) - *Data Intelligence Lab (2025.03)*
 *   **Zochi Technical Report** [![Link](https://img.shields.io/badge/Link-Intology.AI-blue.svg)](https://www.intology.ai/blog/zochi-tech-report) - *Intology AI (2025.03)*
 *   **Meet Carl: The First AI System To Produce Academically Peer-Reviewed Research** [![Link](https://img.shields.io/badge/Link-AutoScience.AI-blue.svg)](https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research) - *Autoscience Institute (2025.03)*
+*   **DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively** [![arXiv](https://img.shields.io/badge/arXiv-2509.26603-B31B1B.svg)](https://arxiv.org/pdf/2509.26603) - *Weng et al. (2025.09)*
 
 ---
 

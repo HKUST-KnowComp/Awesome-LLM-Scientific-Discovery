@@ -177,8 +177,9 @@ Identifying underlying equations from observational data (AI-driven symbolic reg
 *   **LLM-SR: Scientific Equation Discovery via Programming with Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2404.18400-B31B1B.svg)](https://arxiv.org/pdf/2404.18400) - *Shojaee et al. (2024.04)*
 *   **LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2504.10415-B31B1B.svg)](https://arxiv.org/pdf/2504.10415) - *Shojaee et al. (2025.04)*
 *   **Gravity-Bench-v1: A Benchmark on Gravitational Physics Discovery for Agents** [![arXiv](https://img.shields.io/badge/arXiv-2501.18411-B31B1B.svg)](https://arxiv.org/pdf/2501.18411) - *Koblischke et al. (2025.01)*
-*   **EvoSLD: Automated neural scaling law discovery with large language models** [![arXiv]](https://arxiv.org/abs/2507.21184) - *Lin et al. (2025.07)*
-*   **DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience** [![arXiv]](https://arxiv.org/abs/2506.04282) - *Wang et al. (2025.06)*
+*   **EvoSLD: Automated neural scaling law discovery with large language models** [![arXiv](https://img.shields.io/badge/arXiv-2507.21184-B31B1B.svg)](https://arxiv.org/abs/2507.21184) - *Lin et al. (2025.07)*
+*   **DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience** [![arXiv](https://img.shields.io/badge/arXiv-2506.04282-B31B1B.svg)](https://arxiv.org/abs/2506.04282) - *Wang et al. (2025.06)*
+*   **NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents** [![arXiv](https://img.shields.io/badge/arXiv-2510.07172-B31B1B.svg)](https://arxiv.org/pdf/2510.07172) - *Zheng et al. (2025.10)*
 
 
 ### Natural Science Research

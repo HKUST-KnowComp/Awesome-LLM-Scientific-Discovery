@@ -196,6 +196,7 @@ Autonomous research workflows for natural science discovery (e.g., chemistry, bi
 *   **Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs** [![arXiv](https://img.shields.io/badge/arXiv-2502.15224-B31B1B.svg)](https://arxiv.org/pdf/2502.15224) - *Chen et al. (2025.02)*
 *   **Towards an AI co-scientist** [![arXiv](https://img.shields.io/badge/arXiv-2502.18864-B31B1B.svg)](https://arxiv.org/pdf/2502.18864) - *Gottweis et al. (2025.02)*
 *   **GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis** [![arXiv](https://img.shields.io/badge/arXiv-2507.21035-B31B1B.svg)](https://arxiv.org/pdf/2507.21035) - *Liu et al. (2025.07)*
+*   **Automated Algorithmic Discovery for Gravitational-Wave Detection Guided by LLM-Informed Evolutionary Monte Carlo Tree Search** [![arXiv](https://img.shields.io/badge/arXiv-2508.03661-B31B1B.svg)](https://arxiv.org/pdf/2508.03661) - *Wang and Zeng (2025.08)*
 
 ### General Research
 

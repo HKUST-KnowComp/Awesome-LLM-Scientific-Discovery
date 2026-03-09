@@ -223,6 +223,7 @@ LLM-based systems operating as active agents capable of orchestrating and naviga
 *   **Zochi Technical Report** [![Link](https://img.shields.io/badge/Link-Intology.AI-blue.svg)](https://www.intology.ai/blog/zochi-tech-report) - *Intology AI (2025.03)*
 *   **Meet Carl: The First AI System To Produce Academically Peer-Reviewed Research** [![Link](https://img.shields.io/badge/Link-AutoScience.AI-blue.svg)](https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research) - *Autoscience Institute (2025.03)*
 *   **DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively** [![arXiv](https://img.shields.io/badge/arXiv-2509.26603-B31B1B.svg)](https://arxiv.org/pdf/2509.26603) - *Weng et al. (2025.09)*
+*   **Accelerating Social Science Research via Agentic Hypothesization and Experimentation** [![arXiv](https://img.shields.io/badge/arXiv-2602.07983-B31B1B.svg)](https://arxiv.org/pdf/2602.07983) - *Gupta et al. (2026.02)*
 
 ---
 

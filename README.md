@@ -91,6 +91,7 @@ LLMs assisting in experimental protocol planning, workflow design, and scientifi
 *   **Natural Language to Code Generation in Interactive Data Science Notebooks** [![arXiv](https://img.shields.io/badge/arXiv-2212.09248-B31B1B.svg)](https://arxiv.org/pdf/2212.09248) - *Yin et al. (2022.12)*
 *   **DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation** [![arXiv](https://img.shields.io/badge/arXiv-2211.11501-B31B1B.svg)](https://arxiv.org/pdf/2211.11501) - *Lai et al. (2022.11)*
 *   **Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**, [![arXiv](https://img.shields.io/badge/arXiv-2502.16069-B31B1B.svg)](https://arxiv.org/pdf/2502.16069) - *Kon et al. (2025.02)*
+*   **AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing** [![arXiv](https://img.shields.io/badge/arXiv-2602.17607-B31B1B.svg)](https://arxiv.org/pdf/2602.17607) - *Du et al. (2026.02)*
 
 ### Data Analysis and Organization
 
@@ -168,6 +169,7 @@ Automated data-driven analysis, statistical data modeling, and hypothesis valida
 *   **Large Language Models for Scientific Synthesis, Inference and Explanation**  [![arXiv](https://img.shields.io/badge/arXiv-2310.07984-B31B1B.svg)](https://arxiv.org/pdf/2310.07984) - *Zheng et al. (2023.10)*
 *   **MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem**  [![arXiv](https://img.shields.io/badge/arXiv-2505.14148-B31B1B.svg)](https://arxiv.org/pdf/2505.14148) - *Liu et al. (2025.05)*
 *   **DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?**  [![arXiv](https://img.shields.io/badge/arXiv-2409.07703-B31B1B.svg)](https://arxiv.org/pdf/2409.07703) - *Jing et al. (2024.09)*
+*   **OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents** [![arXiv](https://img.shields.io/badge/arXiv-2504.16918-B31B1B.svg)](https://arxiv.org/pdf/2504.16918) - *Thind et al. (2025.04)*
 
 
 ### Function Discovery

@@ -110,6 +110,7 @@ LLMs assisting in data-driven analysis, tabular/chart reasoning, statistical rea
 LLMs providing feedback, verifying claims, replicating results, and generating reviews.
 
 *   **CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?** [![arXiv](https://img.shields.io/badge/arXiv-2503.21717-B31B1B.svg)](https://arxiv.org/pdf/2503.21717) - *Ou et al. (2025.03)*
+*   **REFUTE: Reasoning Over Evidence - Falsification, Uncertainty, Truth-grounding & Epistemics** [![HF Dataset](https://img.shields.io/badge/HuggingFace-dataset-yellow.svg)](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) - *BGPT (2026.06)*. Open benchmark for scientific critique and epistemic calibration on recent science paper summaries, covering falsification, limitations, overclaims, missing-evidence refusal, calibration, and planted-flaw detection.
 *   **LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing**  [![arXiv](https://img.shields.io/badge/arXiv-2406.16253-B31B1B.svg)](https://arxiv.org/pdf/2406.16253) - *Du et al. (2024.06)*
 *   **AI-Driven Review Systems: Evaluating LLMs in Scalable and Bias-Aware Academic Reviews**  [![arXiv](https://img.shields.io/badge/arXiv-2408.10365-B31B1B.svg)](https://arxiv.org/pdf/2408.10365) - *Tyser et al. (2024.08)*
 *   **Is LLM a Reliable Reviewer? A Comprehensive Evaluation of LLM on Automatic Paper Reviewing Tasks**  [![Link](https://img.shields.io/badge/Link-LREC--COLING_2024-blue.svg)](https://aclanthology.org/2024.lrec-main.816.pdf) - *Zhou et al. (2024.05)*

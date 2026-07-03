@@ -153,7 +153,7 @@ Automated modeling of machine learning tasks, experiment design, and execution.
 *   **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?** [![arXiv](https://img.shields.io/badge/arXiv-2504.09702-B31B1B.svg)](https://arxiv.org/pdf/2504.09702) - *Zhang et al. (2025.04)*
 *   **RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts** [![arXiv](https://img.shields.io/badge/arXiv-2411.15114-B31B1B.svg)](https://arxiv.org/pdf/2411.15114) - *Wijk et al. (2024.11)*
 *   **MLZero: A Multi-Agent System for End-to-end Machine Learning Automation** [![arXiv](https://img.shields.io/badge/arXiv-2505.13941-B31B1B.svg)](https://arxiv.org/pdf/2505.13941) - *Fang et al. (2025.05)*
-*   **AIDE: AI-Driven Exploration in the Space of Code** [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-B31B1B.svg)](https://arxiv.org/pdf/2502.13138) - *Jiang et al. (2025.02)*
+*   **AIDE: AI-Driven Exploration in the Space of Code** [![GitHub](https://img.shields.io/badge/GitHub-WecoAI/aideml-blue.svg)](https://github.com/WecoAI/aideml) [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-B31B1B.svg)](https://arxiv.org/abs/2502.13138) - *Jiang et al. (2025.02)*
 *   **Language Modeling by Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2506.20249-B31B1B.svg)](https://arxiv.org/pdf/2506.20249) - *Cheng et al. (2025.06)*
 *   **MLGym: A New Framework and Benchmark for Advancing AI Research Agents** [![arXiv](https://img.shields.io/badge/arXiv-2502.14499-B31B1B.svg)](https://arxiv.org/pdf/2502.14499) - *Nathani et al. (2025.02)*
 

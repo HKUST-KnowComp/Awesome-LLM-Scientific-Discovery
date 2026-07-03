@@ -91,6 +91,7 @@ LLMs assisting in experimental protocol planning, workflow design, and scientifi
 *   **Natural Language to Code Generation in Interactive Data Science Notebooks** [![arXiv](https://img.shields.io/badge/arXiv-2212.09248-B31B1B.svg)](https://arxiv.org/pdf/2212.09248) - *Yin et al. (2022.12)*
 *   **DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation** [![arXiv](https://img.shields.io/badge/arXiv-2211.11501-B31B1B.svg)](https://arxiv.org/pdf/2211.11501) - *Lai et al. (2022.11)*
 *   **Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**, [![arXiv](https://img.shields.io/badge/arXiv-2502.16069-B31B1B.svg)](https://arxiv.org/pdf/2502.16069) - *Kon et al. (2025.02)*
+*   **AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing** [![arXiv](https://img.shields.io/badge/arXiv-2602.17607-B31B1B.svg)](https://arxiv.org/pdf/2602.17607) - *Du et al. (2026.02)*
 
 ### Data Analysis and Organization
 
@@ -104,12 +105,14 @@ LLMs assisting in data-driven analysis, tabular/chart reasoning, statistical rea
 *   **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding** [![arXiv](https://img.shields.io/badge/arXiv-2401.04398-B31B1B.svg)](https://arxiv.org/pdf/2401.04398) - *Wang et al. (2024.01)*
 *   **TableBench: A Comprehensive and Complex Benchmark for Table Question Answering** [![arXiv](https://img.shields.io/badge/arXiv-2408.09174-B31B1B.svg)](https://arxiv.org/pdf/2408.09174) - *Wu et al. (2024.08)*
 *   **Tables as Texts or Images: Evaluating the Table Reasoning Ability of LLMs and MLLMs** [![arXiv](https://img.shields.io/badge/arXiv-2402.12424-B31B1B.svg)](https://arxiv.org/pdf/2402.12424) - *Deng et al. (2024.02)*
+*   **ChatSpatial: Schema-Enforced Agentic Orchestration for Reproducible and Cross-Platform Spatial Transcriptomics** [![DOI](https://img.shields.io/badge/DOI-10.64898/2026.02.26.708361-blue.svg)](https://doi.org/10.64898/2026.02.26.708361) - *Yang et al. (2026.02)* [Code](https://github.com/cafferychen777/ChatSpatial)
 
 ### Conclusion and Hypothesis Validation
 
 LLMs providing feedback, verifying claims, replicating results, and generating reviews.
 
 *   **CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?** [![arXiv](https://img.shields.io/badge/arXiv-2503.21717-B31B1B.svg)](https://arxiv.org/pdf/2503.21717) - *Ou et al. (2025.03)*
+*   **REFUTE: Reasoning Over Evidence - Falsification, Uncertainty, Truth-grounding & Epistemics** [![HF Dataset](https://img.shields.io/badge/HuggingFace-dataset-yellow.svg)](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) - *BGPT (2026.06)*. Open benchmark for scientific critique and epistemic calibration on recent science paper summaries, covering falsification, limitations, overclaims, missing-evidence refusal, calibration, and planted-flaw detection.
 *   **LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing**  [![arXiv](https://img.shields.io/badge/arXiv-2406.16253-B31B1B.svg)](https://arxiv.org/pdf/2406.16253) - *Du et al. (2024.06)*
 *   **AI-Driven Review Systems: Evaluating LLMs in Scalable and Bias-Aware Academic Reviews**  [![arXiv](https://img.shields.io/badge/arXiv-2408.10365-B31B1B.svg)](https://arxiv.org/pdf/2408.10365) - *Tyser et al. (2024.08)*
 *   **Is LLM a Reliable Reviewer? A Comprehensive Evaluation of LLM on Automatic Paper Reviewing Tasks**  [![Link](https://img.shields.io/badge/Link-LREC--COLING_2024-blue.svg)](https://aclanthology.org/2024.lrec-main.816.pdf) - *Zhou et al. (2024.05)*
@@ -151,7 +154,7 @@ Automated modeling of machine learning tasks, experiment design, and execution.
 *   **MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?** [![arXiv](https://img.shields.io/badge/arXiv-2504.09702-B31B1B.svg)](https://arxiv.org/pdf/2504.09702) - *Zhang et al. (2025.04)*
 *   **RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts** [![arXiv](https://img.shields.io/badge/arXiv-2411.15114-B31B1B.svg)](https://arxiv.org/pdf/2411.15114) - *Wijk et al. (2024.11)*
 *   **MLZero: A Multi-Agent System for End-to-end Machine Learning Automation** [![arXiv](https://img.shields.io/badge/arXiv-2505.13941-B31B1B.svg)](https://arxiv.org/pdf/2505.13941) - *Fang et al. (2025.05)*
-*   **AIDE: AI-Driven Exploration in the Space of Code** [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-B31B1B.svg)](https://arxiv.org/pdf/2502.13138) - *Jiang et al. (2025.02)*
+*   **AIDE: AI-Driven Exploration in the Space of Code** [![GitHub](https://img.shields.io/badge/GitHub-WecoAI/aideml-blue.svg)](https://github.com/WecoAI/aideml) [![arXiv](https://img.shields.io/badge/arXiv-2502.13138-B31B1B.svg)](https://arxiv.org/abs/2502.13138) - *Jiang et al. (2025.02)*
 *   **Language Modeling by Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2506.20249-B31B1B.svg)](https://arxiv.org/pdf/2506.20249) - *Cheng et al. (2025.06)*
 *   **MLGym: A New Framework and Benchmark for Advancing AI Research Agents** [![arXiv](https://img.shields.io/badge/arXiv-2502.14499-B31B1B.svg)](https://arxiv.org/pdf/2502.14499) - *Nathani et al. (2025.02)*
 
@@ -168,6 +171,7 @@ Automated data-driven analysis, statistical data modeling, and hypothesis valida
 *   **Large Language Models for Scientific Synthesis, Inference and Explanation**  [![arXiv](https://img.shields.io/badge/arXiv-2310.07984-B31B1B.svg)](https://arxiv.org/pdf/2310.07984) - *Zheng et al. (2023.10)*
 *   **MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem**  [![arXiv](https://img.shields.io/badge/arXiv-2505.14148-B31B1B.svg)](https://arxiv.org/pdf/2505.14148) - *Liu et al. (2025.05)*
 *   **DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?**  [![arXiv](https://img.shields.io/badge/arXiv-2409.07703-B31B1B.svg)](https://arxiv.org/pdf/2409.07703) - *Jing et al. (2024.09)*
+*   **OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents** [![arXiv](https://img.shields.io/badge/arXiv-2504.16918-B31B1B.svg)](https://arxiv.org/pdf/2504.16918) - *Thind et al. (2025.04)*
 
 
 ### Function Discovery
@@ -198,6 +202,7 @@ Autonomous research workflows for natural science discovery (e.g., chemistry, bi
 *   **GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis** [![arXiv](https://img.shields.io/badge/arXiv-2507.21035-B31B1B.svg)](https://arxiv.org/pdf/2507.21035) - *Liu et al. (2025.07)*
 *   **Automated Algorithmic Discovery for Gravitational-Wave Detection Guided by LLM-Informed Evolutionary Monte Carlo Tree Search** [![arXiv](https://img.shields.io/badge/arXiv-2508.03661-B31B1B.svg)](https://arxiv.org/pdf/2508.03661) - *Wang and Zeng (2025.08)*
 *   **AutoZyme: An Autonomous Agentic Framework to Optimize Bioinformatics Software** [![bioRxiv](https://img.shields.io/badge/bioRxiv-2026.06-b31b1b.svg)](https://www.biorxiv.org/content/10.64898/2026.06.12.731250v1) - *Xie et al. (2026.06)*
+*   **CASSIA: a multi-agent large language model for automated and interpretable cell annotation** [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--025--67084--x-blue.svg)](https://www.nature.com/articles/s41467-025-67084-x) - *Xie et al. (2025.12)*
 
 ### General Research
 
@@ -224,6 +229,7 @@ LLM-based systems operating as active agents capable of orchestrating and naviga
 *   **Zochi Technical Report** [![Link](https://img.shields.io/badge/Link-Intology.AI-blue.svg)](https://www.intology.ai/blog/zochi-tech-report) - *Intology AI (2025.03)*
 *   **Meet Carl: The First AI System To Produce Academically Peer-Reviewed Research** [![Link](https://img.shields.io/badge/Link-AutoScience.AI-blue.svg)](https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research) - *Autoscience Institute (2025.03)*
 *   **DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively** [![arXiv](https://img.shields.io/badge/arXiv-2509.26603-B31B1B.svg)](https://arxiv.org/pdf/2509.26603) - *Weng et al. (2025.09)*
+*   **Accelerating Social Science Research via Agentic Hypothesization and Experimentation** [![arXiv](https://img.shields.io/badge/arXiv-2602.07983-B31B1B.svg)](https://arxiv.org/pdf/2602.07983) - *Gupta et al. (2026.02)*
 
 ---
 

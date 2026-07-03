@@ -201,6 +201,7 @@ Autonomous research workflows for natural science discovery (e.g., chemistry, bi
 *   **Towards an AI co-scientist** [![arXiv](https://img.shields.io/badge/arXiv-2502.18864-B31B1B.svg)](https://arxiv.org/pdf/2502.18864) - *Gottweis et al. (2025.02)*
 *   **GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis** [![arXiv](https://img.shields.io/badge/arXiv-2507.21035-B31B1B.svg)](https://arxiv.org/pdf/2507.21035) - *Liu et al. (2025.07)*
 *   **Automated Algorithmic Discovery for Gravitational-Wave Detection Guided by LLM-Informed Evolutionary Monte Carlo Tree Search** [![arXiv](https://img.shields.io/badge/arXiv-2508.03661-B31B1B.svg)](https://arxiv.org/pdf/2508.03661) - *Wang and Zeng (2025.08)*
+*   **AutoZyme: An Autonomous Agentic Framework to Optimize Bioinformatics Software** [![bioRxiv](https://img.shields.io/badge/bioRxiv-2026.06-b31b1b.svg)](https://www.biorxiv.org/content/10.64898/2026.06.12.731250v1) - *Xie et al. (2026.06)*
 *   **CASSIA: a multi-agent large language model for automated and interpretable cell annotation** [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--025--67084--x-blue.svg)](https://www.nature.com/articles/s41467-025-67084-x) - *Xie et al. (2025.12)*
 
 ### General Research

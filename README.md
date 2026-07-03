@@ -105,6 +105,7 @@ LLMs assisting in data-driven analysis, tabular/chart reasoning, statistical rea
 *   **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding** [![arXiv](https://img.shields.io/badge/arXiv-2401.04398-B31B1B.svg)](https://arxiv.org/pdf/2401.04398) - *Wang et al. (2024.01)*
 *   **TableBench: A Comprehensive and Complex Benchmark for Table Question Answering** [![arXiv](https://img.shields.io/badge/arXiv-2408.09174-B31B1B.svg)](https://arxiv.org/pdf/2408.09174) - *Wu et al. (2024.08)*
 *   **Tables as Texts or Images: Evaluating the Table Reasoning Ability of LLMs and MLLMs** [![arXiv](https://img.shields.io/badge/arXiv-2402.12424-B31B1B.svg)](https://arxiv.org/pdf/2402.12424) - *Deng et al. (2024.02)*
+*   **ChatSpatial: Schema-Enforced Agentic Orchestration for Reproducible and Cross-Platform Spatial Transcriptomics** [![DOI](https://img.shields.io/badge/DOI-10.64898/2026.02.26.708361-blue.svg)](https://doi.org/10.64898/2026.02.26.708361) - *Yang et al. (2026.02)* [Code](https://github.com/cafferychen777/ChatSpatial)
 
 ### Conclusion and Hypothesis Validation
 

@@ -154,6 +154,7 @@ LLMs involved in iterative refinement of research hypotheses and strategic explo
 *   **Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents** [![arXiv](https://img.shields.io/badge/arXiv-2410.13185-B31B1B.svg)](https://arxiv.org/pdf/2410.13185) - *Li et al. (2024.10)*
 *   **Iterative Hypothesis Generation for Scientific Discovery with Monte Carlo Nash Equilibrium Self-Refining Trees** [![arXiv](https://img.shields.io/badge/arXiv-2503.19309-B31B1B.svg)](https://arxiv.org/pdf/2503.19309) - *Rabby et al. (2025.03)*
 *   **XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision** [![arXiv](https://img.shields.io/badge/arXiv-2505.11336-B31B1B.svg)](https://arxiv.org/pdf/2505.11336) - *Chen et al. (2025.05)*
+*   **ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations** [![arXiv](https://img.shields.io/badge/arXiv-2504.00824-B31B1B.svg)](https://arxiv.org/abs/2504.00824) - *Wang et al. (2025.04)*
 
 ---
 

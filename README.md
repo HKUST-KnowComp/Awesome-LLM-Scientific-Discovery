@@ -236,6 +236,7 @@ Identifying underlying equations from observational data (AI-driven symbolic reg
 *   **AI-Newton: A Concept-Driven Physical Law Discovery System without Prior Physical Knowledge** [![arXiv](https://img.shields.io/badge/arXiv-2504.01538-B31B1B.svg)](https://arxiv.org/pdf/2504.01538) - *Fang et al. (2025.04)*
 *   **PhysGym: Benchmarking LLMs in Interactive Physics Discovery with Controlled Priors** [![arXiv](https://img.shields.io/badge/arXiv-2507.15550-B31B1B.svg)](https://arxiv.org/pdf/2507.15550) - *Chen et al. (2025.07)*
 *   **Finetuning Large Language Model as an Effective Symbolic Regressor (SymbArena)** [![arXiv](https://img.shields.io/badge/arXiv-2508.09897-B31B1B.svg)](https://arxiv.org/pdf/2508.09897) - *Hua et al. (2025.08)*
+*   **AutoSR: Automatic Symbolic Regression by Searching Research States** [![arXiv](https://img.shields.io/badge/arXiv-2608.16876-B31B1B.svg)](https://arxiv.org/pdf/2608.16876) [![GitHub](https://img.shields.io/badge/GitHub-AutoResearch--Factory/AutoSR-blue.svg)](https://github.com/AutoResearch-Factory/AutoSR) - *Zhang et al. (2026.08)*
 
 ### Natural Science Research
 
@@ -309,6 +310,7 @@ End-to-end pipelines that autonomously move from ideation through experimentatio
 *   **DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively** [![arXiv](https://img.shields.io/badge/arXiv-2509.26603-B31B1B.svg)](https://arxiv.org/pdf/2509.26603) - *Weng et al. (2025.09)*
 *   **Accelerating Social Science Research via Agentic Hypothesization and Experimentation** [![arXiv](https://img.shields.io/badge/arXiv-2602.07983-B31B1B.svg)](https://arxiv.org/pdf/2602.07983) - *Gupta et al. (2026.02)*
 *   **AI-Researcher: Fully-Automated Scientific Discovery with LLM Agents** [![GitHub](https://img.shields.io/badge/GitHub-HKUDS/AI--Researcher-blue.svg)](https://github.com/HKUDS/AI-Researcher) - *Data Intelligence Lab (2025.03)*
+*   **Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy** [![arXiv](https://img.shields.io/badge/arXiv-2606.24177-B31B1B.svg)](https://arxiv.org/pdf/2606.24177) [![GitHub](https://img.shields.io/badge/GitHub-AutoResearch--Factory/Agon-blue.svg)](https://github.com/AutoResearch-Factory/Agon) - *Sun et al. (2026.06)*
 
 ### Discovery-Oriented Scientific Systems
 
@@ -318,6 +320,7 @@ Systems whose primary goal is genuine new scientific knowledge — novel, experi
 *   **Robin: A Multi-Agent System for Automating Scientific Discovery** [![arXiv](https://img.shields.io/badge/arXiv-2505.13400-B31B1B.svg)](https://arxiv.org/pdf/2505.13400) - *Ghareeb et al. (2025.05)* — FutureHouse
 *   **AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery** [![arXiv](https://img.shields.io/badge/arXiv-2506.13131-B31B1B.svg)](https://arxiv.org/pdf/2506.13131) - *Novikov et al. (2025.06)* — Google DeepMind
 *   **Aviary: Training Language Agents on Challenging Scientific Tasks** [![arXiv](https://img.shields.io/badge/arXiv-2412.21154-B31B1B.svg)](https://arxiv.org/pdf/2412.21154) - *Narayanan et al. (2024.12)* — FutureHouse
+*   **AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search** [![arXiv](https://img.shields.io/badge/arXiv-2608.11250-B31B1B.svg)](https://arxiv.org/pdf/2608.11250) [![GitHub](https://img.shields.io/badge/GitHub-AutoResearch--Factory/AgonAlpha-blue.svg)](https://github.com/AutoResearch-Factory/AgonAlpha) - *Ye et al. (2026.08)*
 
 ### Autonomous Research Ecosystems and Infrastructure
 
